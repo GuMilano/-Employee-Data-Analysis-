@@ -1,4 +1,4 @@
-# Análise de Dados dos Funcionários
+# 👨‍💼 👩‍💼 💼 Employee Data Analysis 📊 🔍
 Este é um script em Python que realiza uma análise dos dados dos funcionários de uma empresa. Abaixo estão algumas informações e operações realizadas pelo script:
 
 - Média Aritmética: Utiliza-se o método mean para calcular a média aritmética de várias variáveis, como idade, carga horária de trabalho, salário mensal, entre outras.
